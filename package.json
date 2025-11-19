@@ -1,0 +1,26 @@
+{
+  "name": "api-tcc-tuctuc",
+  "version": "1.0.0",
+  "description": "API para comunicações do TCC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derick-rufino/api-tcc-tuctuc.git"
+  },
+  "keywords": [
+    "carona solidária",
+    "tcc",
+    "sistema de caronas",
+    "api",
+    "sistema mobile"
+  ],
+  "author": "Ana Julia, Clara Gabriele, Derick Rufino, Guilherme Matchin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derick-rufino/api-tcc-tuctuc/issues"
+  },
+  "homepage": "https://github.com/derick-rufino/api-tcc-tuctuc#readme"
+}
